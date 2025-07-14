@@ -1,0 +1,184 @@
+[
+  {
+    "Carnival_Cruise_Line": {
+      "Ticket_Contract": "https://www.carnival.com/about-carnival/legal-notice/ticket-contract",
+      "Terms_of_Service": "https://www.carnival.com/about-carnival/legal-notice/termsandconditions",
+      "Know_Before_You_Go": "https://www.carnival.com/safety-information",
+      "Specials_Terms": "https://www.carnival.com/legal/specials-terms-conditions",
+      "Accessibility": "https://www.carnival.com/about-carnival/special-needs/wheelchair-users",
+      "Consent_Form": "https://www.carnival.com/~/media/CCLAU/pdf/other/consent-form.ashx",
+      "Payment_&_Cancellation_Policy": "https://www.carnival.com/popups/bookingengine/deposit-and-final-payment-cancellation-policy",
+      "FAQ": "https://help.carnival.com/"
+    }
+  },
+  {
+    "Norwegian_Cruise_Line": {
+      "Ticket_Contract": "https://www.ncl.com/sites/default/files/NCL_Guest_Ticket_Contract_US_EN_April_2025.pdf",
+      "Terms_of_Service": "https://www.ncl.com/about/terms-and-conditions",
+      "Know_Before_You_Go": "https://www.ncl.com/freestyle-cruise/prepare-for-your-cruise",
+      "Accessibility": "https://www.ncl.com/about/accessible-cruising",
+      "Consent_Form": "https://www.ncl.com/sites/default/files/ParentGuardianForm_01302012b.pdf",
+      "Payment_&_Cancellation_Policy": "https://www.ncl.com/about/cancellation-fee-schedule",
+      "FAQ": "https://www.ncl.com/faq"
+    }
+  },
+  {
+    "Virgin_Voyages": {
+      "Ticket_Contract": "https://www.virginvoyages.com/ticket-contract",
+      "Terms_of_Service": "https://www.virginvoyages.com/terms-and-conditions",
+      "Know_Before_You_Go": "https://www.virginvoyages.com/virgin-cruises-101",
+      "Specials_Terms": "https://www.virginvoyages.com/promotional-terms-and-conditions",
+      "Accessibility": "https://www.virginvoyages.com/accessibility",
+      "Payment_&_Cancellation_Policy": "https://www.virginvoyages.com/faq/before-you-sail",
+      "FAQ": "https://www.virginvoyages.com/faq"
+    }
+  },
+  {
+    "Royal_Caribbean": {
+      "Ticket_Contract": "https://www.royalcaribbean.com/guest-terms/",
+      "Terms_of_Service": "https://www.royalcaribbean.com/guest-terms/",
+      "Know_Before_You_Go": "https://www.royalcaribbean.com/booked/know-before-you-go",
+      "Accessibility": "https://www.royalcaribbean.com/faq/topics/accessibility-disability-needs",
+      "Consent_Form": "https://www.royalcaribbean.com/content/dam/royal/resources/pdf/minor-traveling-without-parent-or-guardian-form.pdf",
+      "Payment_&_Cancellation_Policy": "https://www.royalcaribbean.com/faq/topics/reservation-payment-cancellation-policy",
+      "FAQ": "https://www.royalcaribbean.com/faq"
+    }
+  },
+  {
+    "Princess_Cruises": {
+      "Ticket_Contract": "https://www.princess.com/en-us/legal/passage-contract",
+      "Know_Before_You_Go": "https://www.princess.com/en-us/faq/pre-cruise",
+      "Accessibility": "https://www.princesscruises.de/en/accessibility-on-board",
+      "Payment_&_Cancellation_Policy": "https://www.princess.com/en-us/plan/standard-cancellation-refund-policy",
+      "FAQ": "https://www.princess.com/en-us/faq"
+    }
+  },
+  {
+    "Celebrity_Cruises": {
+      "Ticket_Contract": "https://www.celebritycruises.com/content/dam/celebrity/pdf/Cruise-Ticket-Contract-Celebrity.pdf",
+      "Terms_of_Service": "https://www.celebritycruises.com/guest-terms/",
+      "Know_Before_You_Go": "https://www.celebritycruises.com/faqs/prepare",
+      "Accessibility": "https://www.celebritycruises.com/special-needs/accessibility",
+      "Consent_Form": "https://www.celebritycruises.kr/upload/20170105/201701051104591836646.pdf",
+      "Payment_&_Cancellation_Policy": "https://www.celebritycruises.com/faqs/cancellation-policy",
+      "FAQ": "https://www.celebritycruises.com/faqs"
+    }
+  },
+  {
+    "Azamara": {
+      "Ticket_Contract": "https://www.azamara.com/about-azamara/legal",
+      "Terms_of_Service": "https://www.azamara.com/terms-and-conditions",
+      "Know_Before_You_Go": "https://www.azamara.com/booked-guests/before-you-board",
+      "Accessibility": "https://www.azamara.com/our-ships/accessible-cruising",
+      "Payment_&_Cancellation_Policy": "https://www.azamara.com/booked-guests/before-you-board/payment-cancellation",
+      "FAQ": "https://www.azamara.com/faqs"
+    }
+  },
+  {
+    "AmaWaterways": {
+      "Ticket_Contract": "https://www.amawaterways.com/terms-conditions",
+      "Terms_of_Service": "https://www.amawaterways.com/terms-conditions",
+      "Know_Before_You_Go": "https://www.amawaterways.com/my-trip/prepare-for-your-river-cruise",
+      "Accessibility": "https://cruiseweb.com/cruise-lines/amawaterways/experience-accessibility",
+      "Payment_&_Cancellation_Policy": "https://www.icruise.com/cruise-lines/ama-waterways-cancellation-policy.html",
+      "FAQ": "https://www.amawaterways.com/river-cruise-frequently-asked-questions"
+    }
+  },
+  {
+    "Avalon_Waterways": {
+      "Ticket_Contract": "https://www.avalonwaterways.com/terms/",
+      "Terms_of_Service": "https://www.avalonwaterways.com/terms/",
+      "FAQ": "https://www.avalonwaterways.com/faqs/"
+    }
+  },
+  {
+    "Costa_Cruises": {
+      "Ticket_Contract": "https://www.costacruises.com/general-conditions/contract.html",
+      "Terms_of_Service": "https://www.costacruises.com/general-conditions.html",
+      "Know_Before_You_Go": "https://www.costacruises.com/useful-links/useful-info.html",
+      "Accessibility": "https://www.costacruises.com/experience/cruises-for-disabled.html",
+      "Payment_&_Cancellation_Policy": "https://www.costacruises.com/refund-policy.html",
+      "FAQ": "https://www.costacruises.com/faqs.html"
+    }
+  },
+  {
+    "Oceania_Cruises": {
+      "Ticket_Contract": "https://www.oceaniacruises.com/Documents/Legal/10812/US-TicketContract.pdf",
+      "Terms_of_Service": "https://www.oceaniacruises.com/legal/terms-conditions",
+      "Know_Before_You_Go": "https://oceaniacruises.zendesk.com/hc/en-us/categories/360000489993-Before-You-Go",
+      "Accessibility": "https://www.cruise.com/cruise-information/special-needs/oceania-cruises/",
+      "Payment_&_Cancellation_Policy": "https://oceaniacruises.zendesk.com/hc/en-us/articles/360005306234-What-is-your-cancellation-and-refund-policy",
+      "FAQ": "https://oceaniacruises.zendesk.com/hc/en-us"
+    }
+  },
+  {
+    "Cunard": {
+      "Ticket_Contract": "https://www.cunard.com/en-us/advice-and-policies/passage-contract",
+      "Terms_of_Service": "https://www.cunard.com/en-us/my-cunard-tcs",
+      "Know_Before_You_Go": "https://www.cunard.com/en-us/the-cunard-experience/sailing-with-confidence",
+      "Accessibility": "https://www.cunard.com/en-us/accessibility/accessibility-on-board",
+      "Payment_&_Cancellation_Policy": "https://www.cunard.com/en-us/advice-and-policies/standard-cancellation-refund-policy",
+      "FAQ": "https://www.cunard.com/en-us/frequently-asked-questions"
+    }
+  },
+  {
+    "Disney_Cruise_Line": {
+      "Ticket_Contract": "https://disneycruise.disney.go.com/en-id/contracts-terms-safety/cruise-contract/uk/",
+      "Terms_of_Service": "https://disneycruise.disney.go.com/contracts-terms-safety/terms-conditions/",
+      "Know_Before_You_Go": "https://disneycruise.disney.go.com/why-cruise-disney/know-before-you-go/",
+      "Accessibility": "https://disneycruise.disney.go.com/guest-services/guests-with-disabilities/",
+      "Consent_Form": "https://cdn1.parksmedia.wdprapps.disney.com/dam/disney-cruise-line/forms/DCLAuthorizationForMinortoTravel2021.pdf",
+      "Payment_&_Cancellation_Policy": "https://disneycruise.disney.go.com/faq/booking-reservations/cancel-reservation/",
+      "FAQ": "https://disneycruise.disney.go.com/faq/"
+    }
+  },
+  {
+    "Holland_America_Line": {
+      "Ticket_Contract": "https://www.hollandamerica.com/en/us/legal-privacy/cruise-contract",
+      "Know_Before_You_Go": "https://www.hollandamerica.com/en/us/plan-a-cruise/get-ready-for-your-cruise/faq/know-before-you-go",
+      "Accessibility": "https://www.hollandamerica.com/en/us/about/our-company/accessibility",
+      "Consent_Form": "https://www.hollandamerica.com/en/us/faq/cruise-planning/family-travel/can-guests-under-21-travel-alone",
+      "Payment_&_Cancellation_Policy": "https://www.hollandamerica.com/en/us/legal-privacy/cancellation-policy-US-default",
+      "FAQ": "https://www.hollandamerica.com/en/us/faq"
+    }
+  },
+  {
+    "MSC_Cruises": {
+      "Ticket_Contract": "https://www.msccruisesusa.com/-/media/us/documents/Booking-Terms-and-Conditions-221115-FINAL.pdf",
+      "Terms_of_Service": "https://www.msccruisesusa.com/terms-conditions",
+      "Know_Before_You_Go": "https://www.msccruisesusa.com/manage-booking/before-you-go",
+      "Accessibility": "https://www.msccruisesusa.com/manage-booking/accessibility-and-medical-requests",
+      "Payment_&_Cancellation_Policy": "https://www.icruise.com/cruise-lines/msc-cruises-cancellation-policy.html",
+      "FAQ": "https://www.msccruisesusa.com/faq"
+    }
+  },
+  {
+    "Regent_Seven_Seas_Cruises": {
+      "Ticket_Contract": "https://hillsdalecollegecruise.com/wp-content/uploads/2023/04/Regent-Seven-Seas-Ticket-Contract.pdf",
+      "Terms_of_Service": "https://www.rssc.com/legal/terms-conditions",
+      "Know_Before_You_Go": "https://www.rssc.com/frequently-asked-questions/you-sail",
+      "Accessibility": "https://www.rssc.com/accessible-suites",
+      "Payment_&_Cancellation_Policy": "https://www.regentcruises.com/cruises/cancellations.html",
+      "FAQ": "https://www.rssc.com/frequently-asked-questions"
+    }
+  },
+  {
+    "Seabourn": {
+      "Ticket_Contract": "https://media.hollandamerica.com/Seabourn/pdf/SBN_CruiseContract%28Domestic%29_Restart_15APR2021.pdf",
+      "Terms_of_Service": "https://www.seabourn.com/en/us/terms",
+      "Know_Before_You_Go": "https://www.seabourn.com/en/us/faq/booked-guests",
+      "Accessibility": "https://www.seabourn.com/en/us/about/accessibility",
+      "Payment_&_Cancellation_Policy": "https://www.seabourn.com/en/us/cancellation-policy/cancellation-policy-us",
+      "FAQ": "https://www.seabourn.com/en/us/faq"
+    }
+  },
+  {
+    "Viking_Cruises": {
+      "Ticket_Contract": "https://docs.vikingcruises.com/pdf/au/2020_PassengerTicketContract_ANZ.pdf",
+      "Know_Before_You_Go": "https://www.vikingcruises.com/oceans/frequently-asked-questions.html",
+      "Accessibility": "https://cruiseweb.com/cruise-lines/viking-river-cruises/experience-accessibility",
+      "Payment_&_Cancellation_Policy": "https://www.vikingcruises.com/oceans/frequently-asked-questions.html",
+      "FAQ": "https://www.vikingcruises.com/oceans/frequently-asked-questions.html"
+    }
+  }
+]
